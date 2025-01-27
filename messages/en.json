@@ -1,10 +1,14 @@
 {
     "person": {
+<<<<<<< HEAD
         "role": "User Experience &amp Product Designer"
+=======
+        "role": "UX &amp Product Designer"
+>>>>>>> fd7522daac8cae67900ce625b92d0723f1337e1c
     },
     "newsletter": {
         "title": "Subscribe to {firstName}'s Newsletter",
-        "description": "I occasionally write about design, technology, and share thoughts on the intersection of creativity and engineering",
+        "description": "I occasionall   y write about design, technology, and share thoughts on the intersection of creativity and engineering",
         "button": "Sign up"
     },
     "home": {
